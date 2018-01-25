@@ -1,0 +1,19 @@
+{
+  "name": "microbundle-issue-64-reduced-test-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "microbundle",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "microbundle": "^0.4.2"
+  },
+  "dependencies": {
+    "date-fns": "^1.29.0"
+  }
+}
